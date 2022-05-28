@@ -1,0 +1,12 @@
+.logotipo {
+    width: 4vw; 
+    height: auto;
+}
+
+.navbar {
+    width: 100vw;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
